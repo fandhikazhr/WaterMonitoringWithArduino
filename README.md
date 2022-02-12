@@ -5,4 +5,4 @@ This Project Using
 2. Buzzer
 3. LED (Red, Yellow, and Green)
 4. Ultrasonic Sensor HC-SR04
-5. Jumper Cable
+5. Jumper Cable (Male to Female)
